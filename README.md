@@ -7,7 +7,7 @@ This project displays the weather for selected cities or locations
 git clone https://github.com/shadowsking/dvmn_weather.git
 cd dvmn_weather
 ```
-3) Create virtual environment
+2) Create virtual environment
 ```bash
 python -m venv venv
 source venv/scripts/activate
